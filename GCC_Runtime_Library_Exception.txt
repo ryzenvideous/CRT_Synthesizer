@@ -1,0 +1,8 @@
+Use of libstdc++ (GCC Runtime Library)
+
+This software uses the libstdc++ library, which is governed by the GNU General Public License (GPL) version 3, with the GCC Runtime Library Exception.
+
+This Exception allows you to combine the Runtime Library with independent modules (i.e., your program) and convey the combination under terms of your choice, as long as the program is compiled using GCC or another eligible compilation process.
+
+For more information on the GCC Runtime Library Exception, please refer to the official text here:
+https://www.gnu.org/licenses/gcc-exception.html
