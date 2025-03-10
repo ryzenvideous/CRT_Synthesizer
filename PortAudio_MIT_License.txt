@@ -1,5 +1,0 @@
-PortAudio License
-
-This software uses the PortAudio library, which is licensed under the MIT License.
-For more information on the PortAudio license, you can view the full text at:
-https://opensource.org/licenses/MIT
