@@ -1,0 +1,16 @@
+Personal Use License  
+
+Copyright (c) [2025] [Mr. Matthew Falzon]  
+
+Permission is hereby granted, **only to the original recipient**, to use this  
+software and associated documentation files (the "Software"), specifically the executable originally named "[crtnoise.exe/CRT_Synthesizer.exe]", **for personal or internal business purposes only**, subject to the following conditions:
+
+1. **No Redistribution** – The Software **may not be copied, published, distributed, shared, or sublicensed** in any form, either for free or for payment, without express written permission from the copyright holder. This applies regardless of whether the Software is renamed or modified in any way.
+
+2. **No Modification** – The Software **may not be modified, merged, decompiled, reverse-engineered, or used as a base for derivative works**. This applies regardless of the file name or any changes made to the Software.
+
+3. **No Resale** – The Software **may not be sold, resold, rented, or otherwise monetized** in any form, as a standalone product or as part of another product or service, without express written permission from the copyright holder. This applies regardless of the file name or any changes made to the Software.
+
+4. **Retention of Copyright Notice** – This copyright notice and license terms **must remain intact** in all authorized copies of the Software.
+
+5. **No Warranty** – THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
